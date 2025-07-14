@@ -1,39 +1,39 @@
 ---
+
 **User Persona: kojied**
 
-
-
 1. **Age Range**
-   - Reason: The user mentions being referred to as the "old person" in a bar, and also mentions being a part of a different generation compared to the younger crowd.
-   - Cited from: "That's when I knew I had to get out of there. I was at the wrong party." 
+   - Reason: The user mentions being referred to as the "old person" in a bar, and also mentions millennials and gen-Z, suggesting they are likely older than the average gen-Z member but still familiar with current trends and technology.
+   - Cited from: "a girl pointed at me and referred to me as the old person"  
      URL: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
 
 2. **Personality Traits**
-   - Traits: introspective, self-aware, open-minded, curious
-   - Cited from: "But then again, I thought to myself. Am I not the same as they are, just at a longer time horizon?"  
-     URL: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+   - Traits: introspective, self-aware, adaptable, curious, tech-savvy
+   - Cited from: Multiple posts and comments showcasing a wide range of interests and the ability to reflect on personal experiences and societal trends.
+   - URL: Various, including https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/ and https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/
 
 3. **Interests**
    - List:
-     - Technology (visionOS, AR, VR)
-     - Gaming (Manor Lords, Pokémon)
-     - Food and drink
-     - Environmental sustainability
-     - Japanese culture
-   - Cited from: Various posts and comments across different subreddits, such as r/VisionPro, r/ManorLords, r/FoodNYC, r/ClimateOffensive, and r/OnePiece.
-     URL: https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
+     - Technology (especially visionOS and AR/VR)
+     - Anime (e.g., One Piece)
+     - Gaming (e.g., Manor Lords, Pokémon)
+     - Environmentalism and sustainability
+     - Food and dining
+   - Cited from: Multiple comments and posts across different subreddits related to these topics.
+   - URL: Examples include https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ and https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/
 
 4. **Tone of Communication**
-   - Description: The user's tone is generally casual and conversational, with a touch of humor and self-deprecation.
-   - Cited from: "I wore a toga. she showed up in regular clothes"  
-     URL: https://www.reddit.com/r/AskReddit/comments/1ksghx5/what_happened_on_the_first_date_that_made_you/mtnzw3v/
+   - Description: Engaging, reflective, and informative, with a tendency to share personal experiences and ask open-ended questions to encourage discussion.
+   - Cited from: Posts like "I feel violated by intern season" and comments throughout various subreddits.
+   - URL: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
 
 5. **Political Views (if any)**
-   - Observations: The user does not express any strong or explicit political views, but seems to be interested in social and environmental issues.
-   - Cited from: "I feel that companies would take ESG ratings seriously if consumers changed their purchase behaviors based on the score."  
-     URL: https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+   - Observations: The user does not frequently express overtly political views, but there's a mention of environmental concerns and sustainable living, suggesting a possible lean towards progressive or liberal viewpoints on environmental issues.
+   - Cited from: "Tracking our individual impacts on the world through ESG ratings"
+   - URL: https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
 
 6. **Frequent Subreddits**
-   - List: r/VisionPro, r/ManorLords, r/AskReddit, r/OnePiece, r/FoodNYC, r/ClimateOffensive
-
+   - List: r/VisionPro, r/OnePiece, r/ManorLords, r/NewYorkCity, r/AskReddit, r/FoodNYC, r/ClimateOffensive
 ---
+
+Note: The analysis is based on the provided posts and comments and might not be exhaustive or definitive, as the persona's traits and interests can evolve over time or be expressed in ways not captured in the given data.
