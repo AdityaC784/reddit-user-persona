@@ -70,10 +70,9 @@ User Data:
 """
 
     response = client.chat.completions.create(
-        model="deepseek-r1-distill-llama-70b",
+        model="llama-3.3-70b-versatile",
         messages=[
             {"role": "system", "content": "You are a Reddit user profiling assistant."},
-            {"role": "system", "content": "Only return structured output. Never write <think> or reasoning steps."},
             {"role": "user", "content": prompt}
         ]
     )
